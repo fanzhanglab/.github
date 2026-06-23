@@ -5,7 +5,6 @@
 ### Computational Machine Learning & AI for Single-Cell Omics
 
 **University of Colorado Anschutz Medical Campus**
-**Department of Biomedical Informatics**
 
 [![Website](https://img.shields.io/badge/Website-fanzhanglab.org-0a66c2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fanzhanglab.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-fanzhanglab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fanzhanglab)
