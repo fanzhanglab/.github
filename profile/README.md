@@ -2,7 +2,7 @@
 
 # 🧬 Zhang Lab
 
-### Computational Machine Learning & AI for Single-Cell Omics
+### AI and Machine Learning, Single-Cell Multi-Omics, and Systems Immunology
 
 **University of Colorado Anschutz Medical Campus**
 
