@@ -44,7 +44,7 @@ The **Zhang Lab** develops computational machine learning and AI methods for sin
 </tr>
 <tr>
 <td><strong><a href="https://github.com/fanzhanglab/MultiScale_ComplementMacrophage">MultiScale_ComplementMacrophage</a></strong></td>
-<td><strong>Multi-scale dissection of complement-macrophage</strong> interaction: Analytical code for complement-focused single-cell meta-analysis, complement-treated macrophage-fibroblast co-culture analysis, and a novel spatial neighborhood-based modeling for gene-level associations for spatial transcriptomics
+<td>Analytic code for complement-focused <strong>single-cell meta-analysis, complement-treated macrophage-fibroblast co-culture analysis, and a novel spatial neighborhood-based modeling</strong> for gene-level associations for spatial transcriptomics
 </tr>
 </table>
 
