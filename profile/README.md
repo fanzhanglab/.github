@@ -13,9 +13,9 @@
 
 ---
 
-## 🔬 About the Lab
+## 🖥️ About the Lab
 
-The **Zhang Lab** develops computational machine learning and AI methods for single-cell omics to study inflammatory disease for translational medicine in the University of Colorado Anschutz Medical Campus. The lab is supported by multiple NIH and foundation grants, including NIH NIAMS R01, the NIH AMP-AIM Team Science Leadership Scholars Program, the NIH Office of Women's Health, the NIH Office of Data Science Strategy, as well as the Arthritis Foundation, Arthritis National Research Foundation, and PhRMA.
+The **Zhang Lab** develops computational machine learning and AI methods for single-cell omics to study inflammatory disease for translational medicine in the University of Colorado Anschutz Medical Campus. The lab is supported by multiple NIH and foundation grants, including NIH NIAMS R01, the NIH AMP-AIM Team Science Leadership Scholars Program, the NIH Office of Women's Health, as well as the Arthritis Foundation, Arthritis National Research Foundation, and PhRMA.
 
 ---
 
