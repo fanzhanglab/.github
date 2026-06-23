@@ -43,7 +43,7 @@ The **Zhang Lab** develops computational machine learning and AI methods for sin
 <td>Analytic code for the <strong>StopRA mechanistic study</strong>, including data integration and disease progression modeling using CITE-seq, mass cytometry, scASAP-seq, TCR/BCR-seq, and more.</td>
 </tr>
 <tr>
-<td><strong><a href="https://github.com/fanzhanglab/MultiScale_ComplementMacrophage">Longitudinal_preRA</a></strong></td>
+<td><strong><a href="https://github.com/fanzhanglab/MultiScale_ComplementMacrophage">MultiScale_ComplementMacrophage</a></strong></td>
 <td><strong>Multi-scale dissection of complement-macrophage</strong> interaction: Analytical code for complement-focused single-cell meta-analysis, complement-treated macrophage-fibroblast co-culture analysis, and a novel spatial neighborhood-based modeling for gene-level associations for spatial transcriptomics
 </tr>
 </table>
