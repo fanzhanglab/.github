@@ -42,6 +42,10 @@ The **Zhang Lab** develops computational machine learning and AI methods for sin
 <td><strong><a href="https://github.com/fanzhanglab/Longitudinal_preRA">Longitudinal_preRA</a></strong></td>
 <td>Analytic code for the <strong>StopRA mechanistic study</strong>, including data integration and disease progression modeling using CITE-seq, mass cytometry, scASAP-seq, TCR/BCR-seq, and more.</td>
 </tr>
+<tr>
+<td><strong><a href="https://github.com/fanzhanglab/MultiScale_ComplementMacrophage">Longitudinal_preRA</a></strong></td>
+<td><strong>Multi-scale dissection of complement-macrophage</strong> interaction: Analytical code for complement-focused single-cell meta-analysis, complement-treated macrophage-fibroblast co-culture analysis, and a novel spatial neighborhood-based modeling for gene-level associations for spatial transcriptomics
+</tr>
 </table>
 
 ---
@@ -57,11 +61,9 @@ The **Zhang Lab** develops computational machine learning and AI methods for sin
 [![CellPhenoX](https://img.shields.io/badge/pyCellPhenoX-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/pyCellPhenoX)
 [![PyPI](https://img.shields.io/badge/pyCellPhenoX-PyPI-yellow?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pyCellPhenoX/)
 [![Longitudinal_preRA](https://img.shields.io/badge/Longitudinal__preRA-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/Longitudinal_preRA)
+[![MultiScale_ComplementMacrophage](https://img.shields.io/badge/MultiScale_ComplementMacrophage-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/MultiScale_ComplementMacrophage)
 
 </div>
 
 ---
 
-<div align="center">
-<sub>© Zhang Lab · Department of Biomedical Informatics · University of Colorado Anschutz Medical Campus</sub>
-</div>
