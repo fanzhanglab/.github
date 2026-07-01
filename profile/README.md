@@ -17,7 +17,18 @@
 
 The **Zhang Lab** develops computational machine learning and AI methods for single-cell omics to study inflammatory disease for translational medicine in the University of Colorado Anschutz Medical Campus. The lab is supported by multiple NIH and foundation grants, including NIH NIAMS R01, the NIH AMP-AIM Team Science Leadership Scholars Program, the NIH Office of Women's Health, as well as the Arthritis Foundation, Arthritis National Research Foundation, and PhRMA.
 
+#### 🎥 Research Talks/Presentations
+
+<div align="center">
+
+[![Zhang Lab Overview](https://img.youtube.com/vi/kfBvtizpD3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=kfBvtizpD3A)
+
+*▶ Click to watch the Department of Medicine Grand Rounds | Fan Zhang & Helena Jonsson on YouTube*
+
+</div>
+
 ---
+
 
 ## 🛠️ Selected single-cell omics analysis tools & projects
 
@@ -44,11 +55,12 @@ The **Zhang Lab** develops computational machine learning and AI methods for sin
 </tr>
 <tr>
 <td><strong><a href="https://github.com/fanzhanglab/MultiScale_ComplementMacrophage">MultiScale_ComplementMacrophage</a></strong></td>
-<td>Analytic code for complement-focused <strong>single-cell meta-analysis, complement-treated macrophage-fibroblast co-culture analysis, and a novel spatial neighborhood-based modeling</strong> for gene-level associations for spatial transcriptomics
+<td>Analytic code for complement-focused <strong>single-cell meta-analysis, complement-treated macrophage-fibroblast co-culture analysis, and a novel spatial neighborhood-based modeling</strong> for gene-level associations for spatial transcriptomics.</td>
 </tr>
 </table>
 
----
+
+
 
 ## 🔗 Quick Links
 
@@ -66,4 +78,3 @@ The **Zhang Lab** develops computational machine learning and AI methods for sin
 </div>
 
 ---
-
