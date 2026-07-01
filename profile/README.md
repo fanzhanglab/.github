@@ -54,7 +54,7 @@ The **Zhang Lab** develops computational machine learning and AI methods for sin
 
 **Talks**
 
-- 🎥 [Department of Medicine Grand Rounds — Fan Zhang & Helena Jonsson](https://www.youtube.com/watch?v=kfBvtizpD3A) *(YouTube)*
+- 🎥 [Department of Medicine Grand Rounds — Fan Zhang & Helena Jonsson](https://www.youtube.com/watch?v=kfBvtizpD3A&t=1758s) *(YouTube)*
 
 **In the News**
 
