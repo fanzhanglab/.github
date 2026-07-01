@@ -17,9 +17,7 @@
 
 The **Zhang Lab** develops computational machine learning and AI methods for single-cell omics to study inflammatory disease for translational medicine in the University of Colorado Anschutz Medical Campus. The lab is supported by multiple NIH and foundation grants, including NIH NIAMS R01, the NIH AMP-AIM Team Science Leadership Scholars Program, the NIH Office of Women's Health, as well as the Arthritis Foundation, Arthritis National Research Foundation, and PhRMA.
 
-
 ---
-
 
 ## 🛠️ Selected single-cell omics analysis tools & projects
 
@@ -50,30 +48,20 @@ The **Zhang Lab** develops computational machine learning and AI methods for sin
 </tr>
 </table>
 
+---
 
+## 🎤 Featured Talks & 📰 News
 
+**Talks**
 
-## 🔗 Quick Links
+- 🎥 [Department of Medicine Grand Rounds — Fan Zhang & Helena Jonsson](https://www.youtube.com/watch?v=kfBvtizpD3A) *(YouTube)*
 
-<div align="center">
+**In the News**
 
-[![Zhang Lab Overview](https://img.youtube.com/vi/kfBvtizpD3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=kfBvtizpD3A)
-
-*▶ Click to watch the Department of Medicine Grand Rounds | Fan Zhang & Helena Jonsson on YouTube*
-
-</div>
-
-<div align="center">
-
-[![Lab Website](https://img.shields.io/badge/🌐_Lab_Website-fanzhanglab.org-2ea44f?style=flat-square)](https://fanzhanglab.org/)
-[![scLASER](https://img.shields.io/badge/scLASER-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/scLASER)
-[![STEAM](https://img.shields.io/badge/STEAM-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/STEAM)
-[![STew](https://img.shields.io/badge/STew-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/STew)
-[![CellPhenoX](https://img.shields.io/badge/pyCellPhenoX-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/pyCellPhenoX)
-[![PyPI](https://img.shields.io/badge/pyCellPhenoX-PyPI-yellow?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pyCellPhenoX/)
-[![Longitudinal_preRA](https://img.shields.io/badge/Longitudinal__preRA-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/Longitudinal_preRA)
-[![MultiScale_ComplementMacrophage](https://img.shields.io/badge/MultiScale_ComplementMacrophage-GitHub-blue?style=flat-square&logo=github)](https://github.com/fanzhanglab/MultiScale_ComplementMacrophage)
-
-</div>
+- 📰 [AI and single-cell approaches transforming autoimmune research](https://news.cuanschutz.edu/medicine/ai-single-cell-autoimmune-research-2025) — *CU Anschutz News*
+- 📰 [AI-powered research targets rheumatoid arthritis](https://news.cuanschutz.edu/department-of-medicine/zhang-ai-rheumatoid-arthritis) — *CU Department of Medicine*
+- 📰 [Fan Zhang's research to predict rheumatoid arthritis](https://www.arthritis.org/news/news-and-events/fan-zhang-research-to-predict-rheumatoid-arthritis) — *Arthritis Foundation*
+- 📰 [Research could lead to new targeted treatments for rheumatoid arthritis](https://news.cuanschutz.edu/medicine/research-could-lead-to-new-targeted-treatments-for-rheumatoid-arthritis) — *CU Anschutz News*
 
 ---
+
